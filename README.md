@@ -1,1 +1,2 @@
-# Timeseries-anomaly-detection
+# Timeseries anomaly detection using an Autoencoder
+===================================================
