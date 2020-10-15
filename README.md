@@ -1,10 +1,8 @@
-"""
 Title: Timeseries anomaly detection using an Autoencoder
 Author: [pavithrasv](https://github.com/pavithrasv)
 Date created: 2020/05/31
 Last modified: 2020/05/31
 Description: Detect anomalies in a timeseries using an Autoencoder.
-"""
 
 """
 ## Introduction
